@@ -1,0 +1,2 @@
+4 * * * * tivvit bash cd /data/projects/web_snapshots/ && ./download.sh
+
